@@ -6,3 +6,4 @@
 .svn
 _svn
 svn-commit*.tmp
+android/build
